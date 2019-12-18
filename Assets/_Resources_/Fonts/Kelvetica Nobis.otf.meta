@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 349a56468b5b24d9dae67b5b1ebd093f
+timeCreated: 1482217273
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kelvetica Nobis
+  fontNames:
+  - Kelvetica Nobis
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

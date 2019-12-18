@@ -1,0 +1,130 @@
++
+-Hay unos vecinos en tu comunidad de vecinos que no suelen respetar las normas de convivencia, pero cuando algún vecino enfadado les recrimina este hecho, suelen montarle un buen “pollo”.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Vives en un piso compartido y uno de los inquilinos suele hacer ruido a altas horas de la madrugada, poniéndose agresivo cuando alguien que no puede dormir le dice cansado y de malos modos que no haga ruido.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Te acabas de mudar a vivir con tu pareja y te has dado cuenta de lo desordenada que es, lo cual a ti te molesta bastante. A veces no puedes más y se lo dices enfadado, pero eso solo crea tensión en el ambiente, o que se monte una discusión.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Te molesta de tu pareja que a menudo deja el baño lleno de pelos y sin recoger. A menudo te callas, pero otras veces le gritas.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Suele ser tu pareja la que decide lo que hacéis casi siempre en vuestro tiempo libre. Tú normalmente lo aceptas, pero a veces te enfadas y respondes montando una bronca.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Tu pareja te recrimina cada vez que quedas con amigos sin consultar antes con ella, lo que suele ser motivo de bronca.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Tu hermano casi nunca la cocina cuando se prepara algo, a pesar de que sabe que la norma es que cada uno se recoge lo suyo. Cuando tú se lo dices presa del enfado suele haber bronca.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Tu hermana suele llegar antes a casa y pone en la televisión del salón programas que a ti no te gustan, pero cuando exiges enfadado que se ponga lo que tú quieres, ella se niega a cambiar y suele haber lío.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Vives en un piso compartido y uno de los inquilinos suele hacer ruido a altas horas de la madrugada, poniéndose agresivo cuando alguien que no puede dormir le dice cansado y de malos modos que no haga ruido.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Tienes un compañero trabajo que tiene la costumbre de colgarse medallas que no le corresponden, atribuyéndose el mérito de trabajos que han hecho principalmente otros. Cuando alguien protesta enfadado por este hecho se suele crear un clima muy tenso y desagradable.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Para poder hacer determinadas tareas en tu trabajo necesitas que un compañero haga una tarea previa, y a pesar de que tiene bastante tiempo libre suele tardar mucho en hacerla, retrasándote a ti. Pero cuando le dices tenso que se dé prisa, suele enfadarse y crearse mal clima de trabajo.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Tienes una compañera de trabajo que tiende a escaquearse cuando el jefe os manda algún trabajo, y lo que no hace ella te toca hacerlo a ti. Pero cuando le recriminas este hecho de malos modos, ella reacciona peor y se puede armar la marimorena.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Tienes un compañero de trabajo que pierde un montón de tiempo en tareas innecesarias y en ir a tomar café, y eso os retrasa a todos. Pero si alguien se lo echa en cara de malos modos, él lo niega todo y arma bronca.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
++
+-Al hacer alguna tarea en grupo uno de los miembros esta distraído y al pedirle de malas maneras que se ponga a trabajar estalla una bronca.
+-guerrero:guerrero1
+-filosofo:filosofo1
+-filosofo:filosofo2
+-filosofo:filosofo3
+-filosofo:filosofo4
+-filosofo:filosofo5
+-filosofo:filosofo6
+-guerrero:guerrero2
++
+-Me cago en todo lo que se menea
+-yogui:yogui4

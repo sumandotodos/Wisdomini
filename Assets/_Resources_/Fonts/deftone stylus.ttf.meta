@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5d3e467851ffb49f9a062fc8a593ac35
+timeCreated: 1488371420
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Deftone Stylus
+  fontNames:
+  - Deftone Stylus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

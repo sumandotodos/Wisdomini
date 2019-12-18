@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0674106b2f59746b29f18bb8eb06103a
+timeCreated: 1519197981
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BrownBagLunch
+  fontNames:
+  - BrownBagLunch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

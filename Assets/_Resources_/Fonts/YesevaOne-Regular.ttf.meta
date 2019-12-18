@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8d2cbf26812784d75b5b95ea4b722a9f
+timeCreated: 1488372545
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yeseva One
+  fontNames:
+  - Yeseva One
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,514 @@
++
+-Ocupas un cargo en la administración desde el que tienes la oportunidad de legislar unas normas de comercio que equilibren la balanza entre el pequeño productor y las grandes multinacionales. O puedes dejar que las cosas sigan como están.
+-maga:maga4
++
+-Ocupas un alto cargo en el ministerio de Hacienda, y tienes la posibilidad de iniciar un plan para perseguir con determinación el fraude fiscal de las grandes fortunas. Te mueve a hacerlo que sabes que esos ingresos irán para mantener un estado del bienestar que garantiza una vida digna a muchos ciudadanos. Te retiene el hecho de que sabes que no será una cruzada fácil.
+-maga:maga4
++
+-Trabajas en el Tribunal de Cuentas y tienes la posibilidad de simplemente cumplir la papeleta y no meterte en líos, o bien de ir hasta el final cuando ves indicios de corrupción. Sabes que el dinero de todos va en beneficio de todos, pero también que lleva su tiempo y su esfuerzo que un corrupto pise la cárcel.   
+-maga:maga4
++
+-Sabes que muchas marcas fabrican sus productos en países pobres para así pagar una miseria a sus empleados. Te preguntas si no deberías boicotear a esas compañías y comprar marcas que sepas que no llevan a cabo estas prácticas.
+-maga:maga4
++
+-Un día alguien te habla de proyectos como el comercio justo, las mareas ciudadanas, o la economía del bien común. Te preguntas si tú no podrías contribuir a crear una sociedad mejor participando en algún proyecto social de ese estilo.
+-maga:maga4
++
+-Viendo un documental sobre el drama de los refugiados y la pobreza en países del sur, te preguntas cómo cada uno de nosotros podríamos aportar nuestro granito de arena para que estas situaciones tan dramáticas no fueran tan ignoradas.
+-maga:maga4
++
+-Una amiga trabaja en una ONG que trabaja con personas sin hogar, y te pregunta si no te animarías a hacerte socio o voluntario.
+-maga:maga4
++
+-Ocupas un puesto de responsabilidad en la administración, y está en tu mano presionar para que se mantengan los presupuestos dedicados a gasto social, educación, cooperación al desarrollo…
+-maga:maga4
++
+-Trabajas en la administración y depende de ti promover una iniciativa legal para asegurar que los fondos que se dedican a ayudar a las personas más desfavorecidas sean empleados de la mejor manera posible y no se pierda nada por el camino.
+-maga:maga4
++
+-Trabajas en la dirección de una gran empresa, y un día te preguntas si quizá no podrías sugerir al consejo de la empresa que donara parte de los beneficios a alguna causa filantrópica.
+-maga:maga4
++
+-Tienes un puesto de responsabilidad en la comisión europea. Un día viene a hablar contigo un representante de Médicos sin Fronteras, que te pide que hagas algo para que Europa deje de mirar a otro lado en el drama de los refugiados.   
+-maga:maga4
++
+-Ocupas un puesto de responsabilidad en un medio de comunicación y un día te encuentras con el dilema de si dar o no determinada noticia. Por un lado, sabes que es una noticia morbosa que dará audiencia, pero por otro lado sabes que difundir esa noticia puede ser una fuente de malas ideas para determinadas personas.
+-maga:maga4
++
+-Ocupas un puesto de responsabilidad en un medio de comunicación y está en tu mano difundir o no una noticia que sabes que a determinados anunciantes no les va a gustar, pero que la gente debería saber.
+-maga:maga4
++
+-Eres nombrado alto cargo en un ministerio. Cuando empiezas encuentras que existen ya unos intereses y unos grupos de poder creados desde antes de que llegaras tú. Te preguntas el impacto que tendría en la sociedad el que tú rompieras con esa dinámica y tomaras decisiones pensando en el bien de la gente, aunque eso signifique a veces remar contra viento y marea.  
+-maga:maga4
++
+-Ves un autobús de donación de sangre y reflexionas sobre la repercusión que tendría sobre otras personas el hecho de que tú te convirtieras en donante regular.
+-maga:maga4
++
+-Ves un anuncio sobre donación de médula y te planteas cómo mejoraría la vida de algunas personas el hecho de que tú te hicieras donante.
+-maga:maga4
++
+-Eres profesor, y estando en clase ves que el sistema que se emplea para educar a los alumnos no es el mejor ni de lejos. Surge la oportunidad de comentarlo en el claustro y cambiar las cosas, aunque sabes que muchos profesores estarán en contra por serles mucho más fácil seguir con las cosas como están.  
+-maga:maga4
++
+-Eres abogado y tras ganar un caso importante te llegan dos ofertas. Una es de un gran bufete que suele trabajar para grandes multinacionales. La otra en un pequeño despacho que trabaja ajustando sus costes para ser accesible a inmigrantes, ONGs y personas con pocos recursos. El sueldo de la primera opción es casi 10 veces mayor que el de la segunda, pero sabes que serías más útil a la sociedad en el pequeño despacho.
+-maga:maga4
++
+-Un día paseando por la calle ves a una persona sin hogar sentada sobre un cartón. Te preguntas si podrías hacer algo por estas personas.
+-maga:maga4
++
+-Un compañero de piso lleva un buen rato probando sintonías con el móvil mientras tú tratas de concéntrate en la lectura. Como a veces has sido tú el que hacía ruido, te preguntas si no lo estará haciendo a mala idea.  
+-yogui:yogui1
++
+-Piensas que le caes mal a un compañero de trabajo porque te parece que no te hace mucho caso cuando estáis todos juntos.  
+-yogui:yogui1
++
+-Te parece que a un compañero de trabajo le gusta mucho interrumpirte cuando estás hablando, y tú te preguntas si lo estará haciendo porque alguna vez tú le has interrumpido a él delante del jefe.
+-yogui:yogui1
++
+-Quedas con un amigo y notas que está distante. Te preguntas si otro amigo común con el que discutiste hace unos días no le habrá malmetido contra ti.   
+-yogui:yogui1
++
+-Una amiga organiza una comida en su casa y no te avisa. Surge en ti la duda de si no lo hará como represalia a que tú últimamente le has dicho que no podías quedar porque estabas muy liado.
+-yogui:yogui1
++
+-Le pides la bicicleta a un amigo y te dice que no puede dejártela por una razón que a ti te suena a excusa, y te preguntas si en realidad no te la quiere dejar porque el otro día tú no le acompañaste a un sitio.
+-yogui:yogui1
++
+-Se acercan las navidades y tu pareja está insistiendo mucho en que vayáis a pasarlas al pueblo de sus padres, cosa que nunca habéis hecho antes y que a ti no te apetece mucho. Te preguntas si no lo hará porque hace poco -y aunque tu pareja no quería- pasasteis unos días con tu familia.
+-yogui:yogui1
++
+-Te parece que un compañero de trabajo te mira raro, y te preguntas si otro compañero al que le contaste un problema personal no se lo habrá contado.
+-yogui:yogui1
++
+-Te parece que tu jefe te está agobiando más de lo normal, y surge en ti el pensamiento de si no será porque el otro día discutiste con una compañera que es muy amiga suya, y ésta no le habrá ido al jefe con el cuento.
+-yogui:yogui1
++
+-Le pides dinero prestado a un amigo que otras veces te ha echado una mano y esta vez te dice que no puede. Tú sospechas que es porque hace poco te mosqueaste con su hermana y ésta se lo habrá contado.
+-yogui:yogui1
++
+-Te parece que un amigo se muestra un poco malhumorado contigo, y te preguntas si no será que se ha tomado mal un comentario que hiciste el otro día en relación a su vida de pareja.
+-yogui:yogui1
++
+-Un amigo pintor que te suele invitar siempre a sus exposiciones, no te invita esta vez. Surge en ti la sospecha de si lo hace porque hace unos días criticaste una de sus obras y se lo ha tomado a mal.
+-yogui:yogui1
++
+-Le has mandado un wasap a una amiga saludándola y preguntándole cómo está, y has visto que lo ha leído, pero no te ha contestado. Te preguntas si estará enfadada por algo.
+-yogui:yogui1
++
+-Has visto que una persona que te gusta ha cambiado la configuración de su wasap para que no aparezca si ha leído los mensajes entrantes ni la última vez que se conectó. Te preguntas si lo hace porque quiere tomar un poco de distancia.     
+-yogui:yogui1
++
+-Le escribes a una amiga por wasap y te responde con un emoticono que no sabes muy bien qué puede significar. Te quedas dándole vueltas.
+-yogui:yogui1
++
+-Te gusta mucho una persona que va a tu misma academia y te parece que es recíproco. Te pierdes a menudo en ensoñaciones en las que ya te imaginas junto a esa persona, hasta que un día te enteras de que esa persona está felizmente casada y con hijos.   
+-yogui:yogui1
++
+-Un amigo no te coge el teléfono, sospechas que es porque no quiere quedar contigo y no se atreve a decírtelo.
+-yogui:yogui1
++
+-Tu pareja pone “Me gusta” a menudo en las fotos que colocan algunas de sus amistades en las redes sociales cuando éstas salen en bañador. Te preguntas si no estará tratando de ligar.
+-yogui:yogui1
++
+-Estando con tu pareja después de un día de trabajo notas que está poco animada y sonríe poco. En cambio, la ves chateando por el móvil un par de veces, y ahí sí que sonríe. Te preguntas si ya no le gustas como antes.
+-yogui:yogui1
++
+-Estando con tu pareja después de un día de trabajo notas que está poco animada y sonríe poco. En cambio, la ves chateando por el móvil un par de veces, y ahí sí que sonríe. Te preguntas si ya no le gustas como antes.
+-yogui:yogui1
++
+-Llegas a una reunión de amigos y cuando entras dejan de hablar lo que estaban hablando para saludarte y empiezan a preguntarte cómo te ha ido la semana. Te preguntas si no estarían hablando algo sobre ti.
+-yogui:yogui1
++
+-Te gustaba mucho una persona de tu clase, y no pensabas en otra cosa ni paraste hasta que empezaste a salir con ella. Ahora lleváis un tiempo saliendo juntos y te parece que la relación idílica y romántica que veías en tus ensoñaciones se ha convertido en algo rutinario y a veces aburrido, o incluso a veces incómodo.
+-yogui:yogui2
++
+-A las pocas semanas de comprarte el Smartphone último modelo detrás del que llevabas meses, te das cuenta de que ahora lo tienes como un utensilio más y ya no te hace la ilusión que te hacía nada más comprártelo.
+-yogui:yogui2
++
+-Te dan el puesto de jefe de exportaciones que tanto anhelabas. Al cabo de unos meses de viajes de empresa y estancias en buenos hoteles pagados por la empresa, te empiezas a cansar de tanto trajín y de no tener tiempo para estar tranquilo.
+-yogui:yogui2
++
+-Han pasado unos meses desde que entraste a vivir en el ático al que llevabas tanto tiempo deseando mudarte, y un día te das cuenta de que ya no te hace la ilusión que te hacía al principio. De hecho, apenas usas la terraza y no te notas más feliz que cuando vivías en tu antiguo piso.
+-yogui:yogui2
++
+-Un día mientras lees un recibo de la letra del coche que te compraste hace unos meses, te paras a pensar en cómo estuviste casi un año obsesionado con comprártelo. Cómo al cabo de unas pocas semanas se te pasó la novedad y dejo de hacerte ilusión. Y cómo la letra la vas a tener que estar pagando durante años.      
+-yogui:yogui2
++
+-Te hacía mucha ilusión comprarte ese televisor gigante, pero al cabo de pocas semanas te das cuenta de que una vez pasada la novedad, el hecho de estar viendo la tele no es ni más divertido ni más aburrido que antes.
+-yogui:yogui2
++
+-Tenías ganas locas de liarte con un compi de clase. Cuando finalmente tenéis una cita y os liais, observas que tampoco era para tanto.
+-yogui:yogui2
++
+-Tenías muchas ganas de entrar a trabajar en una empresa de la que te habían hablado maravillas. Finalmente te cogieron y los primeros meses estuviste muy ilusionado. Pasado ese tiempo, un día te preguntas si no lo habías imaginado mejor de lo que realmente es, una vez que se ha pasado la novedad.
+-yogui:yogui2
++
+-Tenías muchas ganas de que te cambiaran de rango en la empresa para poder disfrutar de pequeños privilegios como plaza aparcamiento, portátil, o tarjeta para gastos. Ejecutado el cambio, llevas un tiempo viviendo con estas ventajas, pero te preguntas si realmente te han hecho más feliz de lo que eras antes.
+-yogui:yogui2
++
+-Sueles ver a un grupo de gente que siempre parece pasarlo genial y te encantaría formar parte de ese grupo.  Consigues entrar en el grupo, y pasado un tiempo te das cuenta de que tampoco es que te lo pases mucho mejor que con tu grupo de siempre.
+-yogui:yogui2
++
+-Llevabas toda la semana distraída pensando en una obra de teatro de la que te hablaron genial, y que habías quedado para ver el viernes. Al salir del espectáculo te surge el pensamiento de que sí, quizá has pasado un rato muy divertido, pero igual tampoco era para estar dándole vueltas durante varios días antes.
+-yogui:yogui2
++
+-Durante varios días casi solo has pensado y hablado con tu gente acerca de un curso en el extranjero que te va a pagar la empresa donde trabajas. Cuando el curso acaba te preguntas si realmente ha sido una experiencia tan genial como habías estado imaginando en tus ensoñaciones.
+-yogui:yogui2
++
+-Ves una prenda de ropa que te encanta pero que es bastante cara, con lo que empiezas a ahorrar. Cada vez que ves a alguien con una prenda parecida, te pones a pensar en lo bien que te quedaría, y sientes una cierta ansia por tenerla ya. Finalmente, la compras y los primeros días te sientes muy bien con ella. Luego pasa a ser una prenda más de ropa de tu abultado armario.
+-yogui:yogui2
++
+-Llevas tiempo pensando y hablando con tus amigos de las ganas que tienes de ir a ver una película que están a punto de estrenar. Pero tras verla te das cuenta que tampoco ha sido una experiencia tan alucinante como imaginaste.
+-yogui:yogui2
++
+-Un amigo promete invitaros este verano unos días a su casa de la playa y dejaros probar su moto de agua. A medida que se acerca la fecha tú casi no piensas en otra cosa. El primer viaje en la moto está bien, el segundo un poco menos. Después hablando con tu amigo te confiesa que a él la moto ya apenas le hace ilusión.
+-yogui:yogui2
++
+-Te atraía un montón la idea de ir a un programa de la tele, y por fin un día te llaman para concursar. En un primer momento pensaste que salir la tele sería genial y cambiaria tu vida, pero tras pasar por el programa te das cuenta que no eres ni más ni menos feliz que antes.
+-yogui:yogui2
+-maestra:maestra4
++
+-Te atraía un montón la idea de ir a un programa de la tele, y por fin un día te llaman para concursar. En un primer momento pensaste que salir la tele sería genial y cambiaria tu vida, pero tras pasar por el programa te das cuenta que no eres ni más ni menos feliz que antes.
+-yogui:yogui2
++
+-Llevabas un tiempo que casi solo tenías en la cabeza la idea de ir a un spa todo incluido. Finalmente vas, y tras pasar un día fantástico y relajante, te das cuenta al volver a casa de que tampoco es que haya sido algo que haya cambiado tu vida, y te preguntas si tuvo sentido pasar tantos días dándole vueltas a una experiencia que duró apenas unas horas.
+-yogui:yogui2
++
+-Desde que lo viste en el catálogo, apenas has pensado en otra cosa que en comprar ese mueble y ponerlo en el hueco que tienes en el salón. Cuando finalmente lo colocas te parece que queda genial, y durante unos días cuando vas por el salón te paras a mirar en lo bien que queda. Pero pasado un tiempo ni te fijas en que está ahí.
+-yogui:yogui2
++
+-Sentiste una súper-atracción a nivel físico por una persona que conociste en una academia a la que vas una vez por semana. Pasaste horas pensando en cómo sería estar con ella. Finalmente, un día se dan las circunstancias, la invitas a salir, y acabáis acostándoos. Al día siguiente por la mañana haces el balance entre el número de horas que pasaste pensando en ella, y los segundos que duró la sensación placentera cuando estabais en la cama.
+-yogui:yogui2
++
+-Has tenido una suerte extraordinaria y te ha tocado un pequeño pellizco en la lotería. Tú sin pensártelo dos veces, empiezas a comprar cada cosa que ves y te llama la atención. La ilusión dura tan poco que pronto tienes el cuarto lleno de objetos que no utilizas y que solo te ocupan espacio.
+-yogui:yogui2
++
+-En clase de Chi Kung conoces a alguien que te parece que realmente es tu media naranja. Pasas largas horas pensando en lo maravillosa que es esa persona, y en lo bien que estaríais juntos. Empiezas a salir con ella, y pasado un tiempo descubres que es una persona de carne y hueso, con sus defectos como todo el mundo. Te das cuenta de que tu vida no se ha convertido en el cuento de hadas que creías cuando andabas perdido en tus ensoñaciones.
+-yogui:yogui2
++
+-Un día que sales especialmente harto del trabajo, te empiezas a hacer preguntas acerca de cuál es tu verdadero talento. En qué trabajo te sentirías feliz y realizado cada mañana cuando tienes que levantarte para ir a trabajar.  Una parte de ti te dice que esa es una pregunta inútil, y otra parte te dice justo todo lo contrario.
+-yogui:yogui3
++
+-Un día te viene a la cabeza la idea de hacer algo distinto: en lugar de ir directamente ‘al tajo’ por la mañana, acostarte un poco antes y levantarte temprano para dar antes un paseo por las calles vacías cuando las primeras luces de la mañana empiezan a asomar. Sin embargo, la tele y la cama te tiran para hacer lo mismo de siempre.
+-yogui:yogui3
++
+-Tu pareja y tú tenéis pequeñas discusiones recurrentes por desacuerdos que tratáis de solucionar siempre por los mismos medios, que sin embargo no dan resultado. Un día se te ocurre que hagáis entre los dos una tormenta de ideas para buscar soluciones nuevas y creativas con las que resolver vuestras viejas disputas. Aunque los viejos hábitos tiran lo suyo...
+-yogui:yogui3
++
+-Te das cuenta de que dedicas casi todo tu tiempo de ocio a ver la tele e ir de bares con los amigos o con la pareja. Un día se te ocurre buscar en internet sitios bonitos para visitar y hacer algún viaje o alguna excursión.
+-yogui:yogui3
++
+-Un día caes en la cuenta de que en tu tiempo libre apenas haces otra cosa que salir de discotecas con los amigos o la pareja. Un día se te ocurre hacer una búsqueda por internet de hobbies y aficiones para ver si sientes curiosidad por practicar alguna de ellas. Dudas si eso no son cosas para frikis.
+-yogui:yogui3
++
+-Un día te das cuenta de que tu vida es bastante rutinaria y apenas conoces gente nueva. Se te pasa por la cabeza buscar en la web algún curso sobre algún tema que te interese, para así de paso conocer gente nueva.
+-yogui:yogui3
++
+-Un día te das cuenta de que siempre quedas con la misma gente. Se te ocurre buscar por internet webs donde gente que no se conoce, queda para compartir sus aficiones. Aunque también podrías seguir haciendo lo mismo de siempre.
+-yogui:yogui3
++
+-Un día se te ocurre que podías dar una sorpresa a tu pareja y llevarla a hacer algo que sabes que siempre le ha apetecido hacer. O bien podríais salir de cañas como siempre.
+-yogui:yogui3
++
+-Un día se te ocurre que podías dar una sorpresa a tu pareja y llevarla a hacer algo que sabes que siempre le ha apetecido hacer. O bien podríais salir de cañas como siempre.
+-yogui:yogui3
++
+-Un día se te ocurre que podías sorprender a tus padres invitándoles a hacer un viaje que sabes que les encantaría hacer y que les sacaría de la monotonía.
+-yogui:yogui3
++
+-Se te pasa por la cabeza hacer ese viaje que siempre quisiste hacer pero que nunca te atreviste. Aunque también lo podrías hacerlo más adelante, o no…
+-yogui:yogui3
++
+-Un día se te ocurre que podrías hacer algo diferente y apuntarte a algún curso de crecimiento personal: yoga, Chi Kung, meditación… pero cuestan dinero y requieren tiempo.
+-yogui:yogui3
++
+-Una mañana que te ves muy estresado se te pasa por la cabeza hacer un curso de gestión del tiempo y mindfulness. Pero no te sobra el tiempo, y los cursos cuestan dinero.
+-yogui:yogui3
++
+-Un día mientras estás en un atasco con la radio puesta, se te ocurre que en lugar de ir siempre escuchando noticias muy parecidas unas de otras, podrías bajarte podcasts sobre temas que te interesen, e ir escuchándolos en el coche o cuando vas en transporte público. Aunque el hábito de darle al botón de la radio hace que sepas que poner en marcha tu idea no será fácil.
+-yogui:yogui3
++
+-Un día se te pasa por la cabeza la posibilidad de dedicar menos tiempo a ver la televisión, y emplear ese tiempo en algo que tú decidas, y que veas que le va a aportar más a tu vida. Claro que los programas y series de la tele te siguen atrayendo.
+-yogui:yogui3
++
+-Un día se te ocurre que podría ser una buena cosa pasar más tiempo haciendo alguna actividad nueva junto a tu familia. Aunque tus tareas de siempre te tienen bastante absorbido.
+-yogui:yogui3
++
+-Un día te pones a reflexionar y te das cuenta de que quizá tu principal causa de malestar e infelicidad son las discusiones que tienes con la gente de tu entorno. Te preguntas si no sería bueno hacer un trabajo de desarrollo personal, o ir a un curso de resolución de conflictos, para empezar a evitar esto.
+-yogui:yogui3
++
+-Un día pensando, te das cuenta de que uno de tus principales quebraderos de cabeza es tu fijación por ligar y encontrar una pareja. Dedicas a ello mucho tiempo, y te preguntas si compensa por la satisfacción (e insatisfacciones) que obtienes luego. Meditas si no sería más conveniente trabajar tu interior yendo a algún curso o leyendo acerca del manejo emocional.  
+-yogui:yogui3
++
+-Te das cuenta de que pasas bastante tiempo dándole vueltas a lo que los demás pensarán de ti. Te preguntas si no sería bueno buscar maneras creativas, quizá a través de algún curso o alguna terapia, que te llevaran a ganar más seguridad y confianza y no estar siempre con miedo de lo que piensen los demás.
+-yogui:yogui3
+-maestra:maestra5
++
+-En un momento determinado te surge la idea de dejar tu cómodo trabajo estable por uno que te apasiona, pero sujeto a la incertidumbre del cambio.
+-yogui:yogui3
++
+-Llamas a atención al cliente para protestar porque te han cobrado de más en la factura de teléfono, pero el telefonista te dice que no te puede tramitar la devolución, solo dejar un aviso. Estás a punto de enfadarte cuando aparece en ti el pensamiento de hasta qué punto el tele-operador es responsable, o hasta qué punto únicamente se ve obligado a cumplir las normas que le han venido dadas porque de lo contrario será despedido.
+-yogui:yogui4
++
+-Un funcionario se niega a hacerte un trámite porque te falta un documento que a ti te parece irrelevante. Eso te contraría, pero antes de culparle a él, te preguntas si simplemente está siguiendo unas pautas que un jefe suyo decidió, y por tanto solo está cumpliendo su cometido.
+-yogui:yogui4
++
+-Un policía te multa por una chorrada y te sienta fatal, pero antes de cabrearte con él, te preguntas si únicamente no estará cumpliendo la orden directa de sus mandos de tener que poner un cupo de multas al día.
+-yogui:yogui4
++
+-Tienes que estar varias horas al día en clase escuchando cosas que no te interesan nada, e inconscientemente culpas a los profesores por obligarte a estar ahí. Hasta que un día te preguntas hasta qué punto los profesores intervienen en el diseño del sistema educativo.
+-yogui:yogui4
++
+-Compraste algo en unos grandes almacenes y no funciona bien, pero el dependiente no te lo descambia porque se había pasado el plazo de devolución. De entrada te enfadas con él, pero luego te preguntas si simplemente está siguiendo unas normas que él no ha decidido.
+-yogui:yogui4
++
+-Te llaman constantemente para cambiar de compañía telefónica y con la última estas a punto de saltar, hasta que piensas que esa persona solo está haciendo su trabajo y no te está llamando por gusto.
+-yogui:yogui4
++
+-Estando en un autobús quieres comprar un billete sencillo, pero el conductor te dice que no te puede dar cambio. Te molesta un poco, peo no tardas en darte cuenta de que él no decide las normas.  
+-yogui:yogui4
++
+-Estando en el trabajo, tu jefe te dice que tienes que adelantar un proyecto al que le han dado prioridad. Tu estas a punto de enfadarte por el cambio, pero comprendes que la decisión viene de una junta directiva y no de tu propio jefe.
+-yogui:yogui4
++
+-Mientras en las noticias ves un desahucio por televisión, te hierve la sangre al ver a la policía echar a esa pobre gente de su casa para que luego un banco pase a tener un piso vacío más en su activo. Luego piensas que esos policías solo siguen órdenes de sus mandos, que a su vez las reciben de otro estamento social… se te ocurre que probablemente a los policías les resulte una tarea tan desagradable como te resultaría a ti.  
+-yogui:yogui4
++
+-Estando en un avión ves un sitio mucho más cómodo en otra fila. Vas a cambiarte, pero un azafato te dice que no puedes hacerlo. Aunque por un segundo piensas en qué le puede importar a él que te cambies, rápidamente surge en ti la certeza de que solo está siguiendo órdenes.
+-yogui:yogui4
++
+-Tras esperar una larga cola para entrar en una discoteca, el personal de seguridad del sitio te impide el acceso alegando que no cumples las normas de etiqueta. Antes de cabrearte te das cuenta de que esa persona no ha decidido esas normas.
+-yogui:yogui4
++
+-Estando en un súper mercado te indigna ver cómo están quitando las cajas para cobrar, y poniendo en su lugar máquinas para que tú mismo te cobres. Al no revertir en los precios este hecho que beneficia únicamente a la empresa, te dispones a darle la chapa a la persona que han puesto para explicarte cómo funciona el sistema, pero te das cuenta antes de hacerlo que ella no ha tomado parte en esa decisión y que son ordenes de arriba el que esto se haga así.
+-yogui:yogui4
++
+-Haciendo la declaración de la renta ves que te han cobrado de más, y te encaminas muy enfadado a hacienda para pedir explicaciones. Todo te resulta un poco confuso y estas a punto de saltar con el funcionario que te atiende porque te dice que todo está bien y que no te han cobrado de más. Te das cuenta de que él no ha decidido el procedimiento, sino que simplemente está haciendo su trabajo.
+-yogui:yogui4
++
+-Vas a devolver algo a una tienda que no terminaba de convencerte y la persona que te atiende te dice que no es posible y te señala un cartel de no se aceptan devoluciones. Tú piensas que es una norma injusta y estas tentado de decirle lo que piensas, aunque rápidamente entiendes que esa persona no es la dueña de la tienda y por tanto no ha puesto ella la norma.   
+-yogui:yogui4
++
+-Vas a un restaurante y no te dan la mesa que quieres, así que piensas en decirle algo al camarero que te está atendiendo. Luego te das cuenta de que él no es quien decide donde se sienta la gente, sino que solo está siguiendo la política del restaurante.  
+-yogui:yogui4
++
+-Estas en un sitio bastante elegante y tú vas vestido bastante normal. Te dicen que no puedes pasar sin americana y corbata, y tu estas a punto de quejarte ante el portero, pero rápidamente te percatas de que él no es quien ha puesto esa norma y solo está siguiendo órdenes.
+-yogui:yogui4
++
+-Estas en un restaurante y prácticamente tras acabar la comida, el camarero te insinúa si vas a dejar pronto libre la mesa. A ti te molesta bastante, pero te das cuenta de que seguramente te lo ha dicho no por gusto, sino porque su jefe le pedirá que actúe así.
+-yogui:yogui4
++
+-Vas a entrar a un cine y en la entrada la persona que se encarga de mirar las entradas te dice que no puedes pasar con comida. Esto evidentemente te molesta, pero antes de enfadarte con el empleado en cuestión, se te ocurre pedir ver al encargado y hablar directamente con él.
+-yogui:yogui4
++
+-Vas a entrar a un sitio y la persona encargada no te deja entrar con tu querida mascota. Aunque en un principio piensas en decirle algo a la persona, al instante comprendes que esta norma no la ha impuesto él, y que él solo hace lo que le dicen.
+-yogui:yogui4
++
+-Tienes muchas ganas de ir al baño y entras en un bar, preguntas al camarero si puedes entrar y te responde amablemente que no a no ser que consumas algo. Aunque en un primer momento te molesta mucho su respuesta te das cuenta de que él no es el dueño, y que solo está respondiendo lo que le ha dicho su jefe que responda ante esa situación.
+-yogui:yogui4
++
+-Solicitaste una ayuda para la que cumples todos los requisitos, sin embargo, no te la están pagando por falta de fondos. Antes de cabrearte con el administrativo que está en atención al público, te preguntas si él es el verdadero responsable de que no estés recibiendo la ayuda.
+-yogui:yogui4
++
+-Un empleado te llama la atención pidiéndote que sigas una norma que a ti te parece que no sirve para nada. De entrada, la tomas un poco con el empleado que se ha dirigido a ti, pero luego te preguntas si más bien no tendrías que quejarte ante el alto responsable que decidió que esa norma tenía que ser así.
+-yogui:yogui4
++
+-A veces te quejas un poco en general de todos, por cosas que te parece que se están haciendo mal a nivel de la organización del estado. Un día viendo una entrevista que está haciendo Jordi Évole, te preguntas si realmente la responsabilidad de es de todos por igual, o si hay algunas personas con más responsabilidad que otras.
+-yogui:yogui4
++
+-Tras ver algunos documentales que muestran como malviven los animales antes de acabar en nuestro plato, te planteas hacerte vegetariano. Un amigo te dice que no tiene sentido porque un carnívoro más o uno menos no va a cambiar nada. Te preguntas si será cierto.
+-yogui:yogui5
++
+-Te preguntas sobre el impacto que puede tener en la sociedad el hecho de que tú empieces a usar el transporte público en lugar de ir en coche contaminando e incrementando el tráfico.
+-yogui:yogui5
++
+-Has leído que hay marcas que se toman más en serio el respeto al medio ambiente, en lugar de hacerlo solo de cara a mejorar su imagen corporativa. Te preguntas qué impacto tendría que tú solo compraras a esas marcas y animaras a otra gente a hacer lo mismo.
+-yogui:yogui5
++
+-Conoces a una chica que trabaja como voluntaria en un refugio para perros abandonados, y te propone que eches una mano en el refugio, o al menos te pide que difundas entre tu entorno la crueldad que supone para un animal ser abandonado.
+-yogui:yogui5
++
+-Te preguntas sobre el impacto que puede tener en la sociedad el hecho de que tú como individuo empieces a tratar de concienciar a tus amigos y conocidos de lo importante que es cuidar la naturaleza y respetar los derechos de los animales.
+-yogui:yogui5
++
+-Te has decidido a tener un perro y quieres ir a una tienda de animales a hacerte con el cachorro más mono que encuentres. Una amiga te propone que mejor adoptes uno de una perrera.
+-yogui:yogui5
++
+-Conoces a una persona que trabaja en el partido animalista recogiendo firmas para pedir a las autoridades que impongan normas más duras contra el maltrato animal. Te invita a que participes en sus actividades, y tú dudas porque te llevaría tiempo.
+-yogui:yogui5
++
+-Un compañero de trabajo está pensando en comprarse un cachorro, y se te ocurre la idea de proponerle que, en lugar de comprarlo, adopte uno. Aunque por otro lado piensas que es meterte donde no te llaman.
+-yogui:yogui5
++
+-Una amiga te sugiere comprar huevos de granja en lugar de huevos donde las gallinas pasan la vida entera cubículos de 40x30 centímetros.
+-yogui:yogui5
++
+-Ves a unas personas encender una barbacoa en un parque protegido donde está prohibido encender fuego por elevado riesgo de incendio. Dudas si decírselo o si ir a lo tuyo.
+-yogui:yogui5
++
+-Estas en el campo con nunca amiga a la que le dan miedo las arañas y da la casualidad que encuentra una en su bolso, te pide por favor que la mates, y te lo dice tan nerviosa que te planteas hacerlo.
+-yogui:yogui5
++
+-Te proponen ir de excursión al zoo o al safari-park. Tú prefieres ir al zoo porque puedes ver de cerca los animales, pero te da la sensación de que son menos felices que los del safari.
+-yogui:yogui5
++
+-Te planteas si cambiaría en algo el hecho de que empieces a comprar productos ecológicos. Sabes que son más caros, pero que ayudaría a que las condiciones de vida de los animales mejoren.
+-yogui:yogui5
++
+-Estás buscando hacerte con un perro y visitas un sitio done los venden. No taras en darte cuenta de que los tratan fatal y dudas entre decirle algo al dueño, denunciarle, o no hacer nada.
+-yogui:yogui5
++
+-Te has enterado de un sitio donde se hacen peleas ilegales de perros. Dudas entre no hacer nada, o acudir a una comisaría a denunciarlo.
+-yogui:yogui5
++
+-Ves un perro vagando solo por la calle y se te ocurre recogerlo, al menos para comprobar si tiene dueño y está perdido.
+-yogui:yogui5
++
+-Un conocido se ofrece a conseguirte una especie protegida para que la tengas en tu jardín. A ti te parece que llamarías un montón la atención con un bicho así en tu jardín, pero sabes que no es el lugar adecuado para él.
+-yogui:yogui5
++
+-Están recogiendo firmas para prohibir las corridas de toros, te preguntas si es un entretenimiento inocente o si por el contrario es hacer pasar a un animal por un sufrimiento innecesario.
+-yogui:yogui5
++
+-Te encanta relajarte llenándote la bañera casi semanalmente. Hasta que un día ves un documental y te planteas si es realmente necesario que hagas eso todas las semanas o si podrías dejarlo para ocasiones especiales y así ahorrar agua.
+-yogui:yogui5
++
+-Te gusta mucho un producto que está contribuyendo a la desforestación. Lo sabes, pero al fin y al cabo que tú dejes de comprarlo tampoco supondrá mucha diferencia… ¿o sí que lo hará? Comienzas a preguntártelo.
+-yogui:yogui5
++
+-Acaban de gastarse las pilas del mando y te da un poco de pereza llevarlas al contenedor especial, piensas que por una tampoco pasara nada, pero luego te acuerdas de lo contaminantes que son y si realmente no pasaría nada por tirar una a la basura normal.
+-yogui:yogui5
++
+-Una amiga te habla de los estudios que muestran cómo hace falta unas 10 veces más agua, energía y vegetales para conseguir un kilo de carne, que para obtener a un kilo de vegetales. Piensas en hacerte vegetariano y en contar esto a algunas de tus amistades.
+-yogui:yogui5
++
+-Estás triste por algo sucedido en el trabajo. Mientras le das vueltas a lo ocurrido cruza por tu mente el antídoto de poner tu atención en la tristeza, y no en lo que te hace estar triste.
+-yogui:yogui6
++
+-Has tenido una fuerte discusión con alguien de tu familia y no paras de darle vueltas presa del enfado. Recuerdas el antídoto de poner tu atención en el enfado mismo, y no en lo que te causó el enfado.
+-yogui:yogui6
++
+-Tu pareja se ha ido por ahí sin ti y te ves envuelto en un remolino de pensamientos. Sabes que los celos están ahí, y por un momento piensas en poner toda tu atención solo en la emoción que estás sintiendo.
+-yogui:yogui6
++
+-A un amigo le va profesionalmente mucho mejor que a ti, a pesar de haber estudiado lo mismo y haber entrado a trabajar a la vez en la misma empresa. Te das cuenta de que a menudo eres presa de numerosos pensamientos que te llevan a sentir envidia. A veces surge en ti la idea de simplemente observar esa envidia sin más, apartando tu atención de esos pensamientos.
+-yogui:yogui6
++
+-Consideras que te equivocaste en una decisión importante y te sientes mal cada vez que tu mente deambula por pensamientos en torno al arrepentimiento. Se te ocurre parar y simplemente observar ese sentimiento de malestar, sin dar más vueltas a lo que pasó.
+-yogui:yogui6
++
+-Sientes una atracción muy fuerte hacia algo y eso hace que continuamente estés pensando en ello. Surge en ti la chispa de lucidez de simplemente observar la emoción de atracción que estás sintiendo, y dejar así de lado todos los pensamientos repetitivos en torno a ese tema.
+-yogui:yogui6
++
+-Te sientes culpable por algo que hiciste y ello te impide estar bien contigo mismo y con los demás. Se te ocurre pararte a solo observar, sin juzgar y sin llevarte por los pensamientos discursivos, ese sentimiento de culpa que hay en ti.
+-yogui:yogui6
++
+-Algo no ha salido como esperabas y sientes una gran decepción. Le das vueltas a lo ocurrido una y otra vez, hasta que se te ocurre poner toda tu atención únicamente en observar esa decepción que estás sintiendo.
+-yogui:yogui6
++
+-Has tenido una fuerte discusión con algunos de tus amigos y sientes una mezcla de rabia y tristeza por cómo se han comportado. Le das vueltas a lo que hicieron una y otra vez, lo que solo hace que te sientas peor. Hasta que recuerdas el antídoto de poner toda tu atención únicamente en las emociones que estás sintiendo.
+-yogui:yogui6
++
+-Te parece que un compañero se ha aprovechado de ti en un trabajo que teníais que hacer en equipo. Esto te hace estar intranquilo e incómodo, perdido en numerosos pensamientos en los que le das vueltas a lo ocurrido, hasta que se te ocurre la posibilidad de poner toda tu atención exclusivamente en el enfado que estás sintiendo.
+-yogui:yogui6
++
+-Estás viendo las noticias y una de ellas te indigna a mas no poder, en lugar de quejarte, despotricar y pensar en los porqués, intentas centrar tu atención en la emoción de ira que estás sintiendo.
+-yogui:yogui6
++
+-Un amigo tuyo ha fallecido en un accidente, tú te sientes fatal y no dejas de darle vueltas a los porqués y a como algo tan horrible ha podido pasar. Empiezas a preguntarte si no sería mejor simplemente observar la tristeza que estas sintiendo, en lugar de seguir con ese “run run” de pensamientos sin sentido.
+-yogui:yogui6
++
+-Habías puesto mucha ilusión en un proyecto que finalmente no acaba saliendo, no dejas de preguntarte por qué no ha salido, y que ha podido ir tan mal como para que no llegase a buen puerto. Empiezas a plantearte si no sería mejor centrarte en la emoción de decepción que estas sintiendo, en lugar de en pensamientos que no te aportan nada.
+-yogui:yogui6
++
+-Últimamente estas teniendo problemas con tu pareja y esto te hace pensar mucho en cómo es ella y en buscar explicaciones a qué os ha podido llevar a vuestra situación actual. Un día te das cuenta de que esto no te está conduciendo a nada, y te planteas si no sería mejor centrarte en las emociones de enfado o tristeza que sientes a veces, y no tanto en los pensamientos que te vienen a la cabeza.
+-yogui:yogui6
++
+-Tenías muchas ganas de ir a un viaje, pero finalmente éste se acaba cancelando. Sientes bastante cabreo y no dejan de venir a tu cabeza pensamientos de qué, cómo, y por qué. Hasta que se te pasa por la cabeza la posibilidad de simplemente poner tu atención en la emoción de frustración que estás sintiendo, para que antes o después ésta acabe por desaparecer.
+-yogui:yogui6
++
+-Tu pareja te ha dejado y te sientes bastante mal. Piensas en ella, en los momentos que pasasteis juntos, y en lo que le pudo llevar a dejarte. En un momento de calma e inspiración, se te ocurre simplemente observar esa tristeza, pues sabes que si la dejas de alimentar con pensamientos, la tristeza se irá más rápidamente.
+-yogui:yogui6
++
+-Estas un poco tristón por unas cosas que te han ocurrido recientemente, le das vueltas en la cabeza a lo que pasó, hasta que te preguntas si no sería mejor para ti simplemente observar esa tristeza como algo temporal que antes o después se irá.
+-yogui:yogui6
++
+-Un día te levantas de mal humor y la vas pagando con todo el mundo: respondiendo de malas formas, y protestando por todo. A tu cabeza no hacen más que acudir quejas y pensamientos negativos de todo tipo. Hasta que te preguntas si no sería mejor detenerte y tratar de poner toda tu atención solamente en la emoción de enfado y frustración que estas sintiendo.
+-yogui:yogui6
+-sabio:sabio6
++
+-Un día ves que unos amigos suben a una red social una foto en la que salen en un sitio chulo al que no te han invitado. Tú empiezas a pensar en por qué no te habrán invitado y vienen a tu mente toda clase de pensamientos. Se te ocurre dejar de darle vueltas al tema y simplemente observar la emoción de enfado y desplante que estás sintiendo ahora mismo.
+-yogui:yogui6
+-yogui:yogui1
++
+-Un día no consigues centrarte en tu trabajo y no das una. No dejan de venir a ti pensamientos negativos y preguntas de cómo es esto posible. Te das cuenta de ello y empiezas a dudar si no sería mejor detenerte unos minutos y centrarte en la emoción que estas sintiendo en ese momento.
+-yogui:yogui6
++
+-Tienes bastante éxito con el sexo opuesto gracias a tu atractivo, lo que hace que a veces mires por encima del hombro a personas de tu entorno a quienes no se les da tan bien tontear y ligar.
+-yogui:yogui7
+-maestra:maestra1
++
+-Notas que a veces de manera inconsciente miras por encima del hombro a quienes llevan coches más baratos que el tuyo, en el que te dejaste una pasta.
+-yogui:yogui7
+-maestra:maestra2
++
+-Un día te observas comparándote con un compañero de trabajo que trabaja en lo mismo que tú, auto-convenciéndote de que eres mucho más experto y capaz que él.
+-yogui:yogui7
++
+-Un día te observas comparándote con un amigo con el que sueles ir a andar en bici. Piensas que eres mucho más hábil y tienes más resistencia que él.
+-yogui:yogui7
++
+-Un día te observas comparando tu situación económica con la de un amigo, considerando que has progresado mucho más que él.
+-yogui:yogui7
+-maestra:maestra2
++
+-Surge una vacante en tu empresa para la que eres seleccionado, lo que hace que durante algunos días te creas mejor que otros compañeros que también optaron al puesto y no fueron seleccionados.
+-yogui:yogui7
++
+-Has tenido la suerte de recibir una buena educación y hablas tres idiomas casi perfectamente. Esto hace que a veces te creas mejor y más inteligente cuando estás con personas que solo hablan inglés a duras penas.
+-yogui:yogui7
++
+-Sueles sacar buenas notas gracias a que tienes buena memoria, a que tienes inteligencia lógica, y a que estudias bastante. Sin embargo, eso hace que a veces te compares con compañeros creyéndote mejor y más inteligente que ellos.
+-yogui:yogui7
++
+-Eres bastante hábil practicando deporte, lo que hace que a veces te compares y te creas mejor que los demás.
+-yogui:yogui7
++
+-Tu familia tiene dinero y gracias a ello puedes permitirte gastos que otras personas no pueden permitirse. Esto hace que a veces te compares con ellos creyéndote especial y mejor.
+-yogui:yogui7
+-maestra:maestra2
++
+-Se te da bastante bien pensar sobre cuestiones de la vida y filosofar sobre ella en general. Empiezas a creerte mejor por creer más respuestas que el resto de los mortales.
+-yogui:yogui7
++
+-Acabas de descubrir una nueva forma de vivir la vida siguiendo unos principios orientales. A partir de ese momento comienzas a pensar que tu forma de vida es mejor que la del resto y desprecias al que no comprende la visión que tienes del mundo.
+-yogui:yogui7
++
+-Te has hecho vegano, eliminando de tu dieta todo producto que proceda de un animal. Ahora cada vez que ves a alguien comiendo carne le miras un poco como si tu talla moral fuera superior a la suya.
+-yogui:yogui7
++
+-Tras completar unos estudios universitarios bastante complejos, empiezas a mirar a los de tu alrededor como personas menos listas y capaces.
+-yogui:yogui7
++
+-Te ha tocado un premio de lotería y de la noche a la mañana estás montado en el dólar. Notas que empiezas a ver a los demás como menos especiales que tú.
+-yogui:yogui7
+-maestra:maestra2
++
+-Eres bastante bueno en tu trabajo, y a veces cuando ves que un compañero se equivoca, aparecen en tu cabeza pensamientos en los que te crees mejor que el resto de tus compañeros.
+-yogui:yogui7
++
+-Tienes talento tocando un instrumento bastante complejo. Un día vas a un concierto de músicos amateur y al oírte tocar junto a ellos, te crees mejor que ellos.
+-yogui:yogui7
++
+-En tu grupo de amigos eres el que mejor trabajo tiene y el que más gana. Esto hace que muchas veces pienses que eres el mejor del grupo.
+-yogui:yogui7
++
+-Conduces bastante bien, lo que hace que cuando te pones al volante, a menudo te sientes mejor que el resto de conductores.
+-yogui:yogui7
++
+-Eres físicamente bastante atractivo. A veces cuando ves a tus amistades cuidando su físico, surgen en ti pensamientos en los que inconscientemente te sientes superior a los demás.
+-yogui:yogui7
+-maestra:maestra1
++
+-Me cago en todo lo que se menea
+-yogui:yogui4
